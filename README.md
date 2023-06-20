@@ -1,1 +1,1 @@
-this repo contains my Rest API Task on airbnb clone v3
+this repo contains my Rest API Task on airbnb clone v2
